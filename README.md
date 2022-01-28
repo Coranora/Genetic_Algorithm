@@ -1,6 +1,6 @@
 ## A simple genetic algorithm to solve the travelling salesman problem
 
-In traveling salesman problem, salesman has to visit all cities in this distance matrix only once with a SHORTEST path.
+In traveling salesman problem, salesman has to visit all cities in the map only once with a SHORTEST path.
 
 Here is the simple algorithmic step of this algorithm:
 
